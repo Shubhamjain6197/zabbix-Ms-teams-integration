@@ -2,7 +2,7 @@
 
 # Zabbix and Ms teams Integration
 
-This document defines Zabbix and MS teams Integrations.
+This document defines Zabbix and MS Teams Integrations.
 
 ## Steps -
 
