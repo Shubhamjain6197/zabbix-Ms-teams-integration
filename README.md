@@ -20,3 +20,6 @@ This document defines Zabbix and MS Teams Integrations.
 ## Important Links
 
 * [Zabbix Manual](https://www.zabbix.com/documentation/current/manual)
+
+
+Supported Version 5.0
