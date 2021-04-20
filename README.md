@@ -18,8 +18,8 @@ This document defines Zabbix and MS Teams Integrations.
 * **Administration** --> **Users** --> **Admin** --> Media --> Add Media --> Type [MS Teams] --> Send To [your team channel Url] --> **Add and Update**
 ![Add Media](https://github.com/Shubhamjain6197/zabbix-Ms-teams-integration/blob/main/img/custom-add-media.png)
 
-## Important Links
+### Important Links
 
 * [Zabbix Manual](https://www.zabbix.com/documentation/current/manual)
 
-Supported Version 5.0
+## Supported Version 5.0
